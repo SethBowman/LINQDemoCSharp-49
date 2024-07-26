@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\bin\Debug\net8.0\LINQDemoCSharp-49.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\bin\Debug\net8.0\LINQDemoCSharp-49.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\bin\Debug\net8.0\LINQDemoCSharp-49.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\bin\Debug\net8.0\LINQDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\bin\Debug\net8.0\LINQDemoCSharp-49.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\refint\LINQDemoCSharp-49.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\LINQDemoCSharp-49.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\LINQDemoCSharp-49\LINQDemoCSharp-49\obj\Debug\net8.0\ref\LINQDemoCSharp-49.dll
